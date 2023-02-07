@@ -1,0 +1,171 @@
+:root {--main-color:#212121;
+--secondary-color:#757575;}
+
+body {
+font-family: roboto; 
+}
+.header a {text-decoration: none;}
+ul {list-style: none;}
+.spanfirst {
+    font-family: 'Raleway';
+        color: #2196F3;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+}
+.list {list-style: none;}
+.spansecond {
+    color: #000000;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+    }
+
+}
+.nav a {text-decoration: none;}
+.adresmail {
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #757575;}
+.tel {font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+    color: #757575;}
+
+.unorder1 {
+       
+        width: 53px;
+        height: 16px;
+        left: 453px;
+        top: 32px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #212121;
+        
+}
+.unorder2  {
+        
+        width: 58px;
+        height: 16px;
+        left: 552px;
+        top: 32px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #2196F3;
+        
+}
+.unorder3 {
+    
+        width: 58px;
+        height: 16px;
+        left: 656px;
+        top: 32px;
+        font-weight: 500;
+            font-size: 14px;
+            line-height: 16px;
+            letter-spacing: 0.02em;
+        
+            color: #212121;
+}
+
+    .button1 {color: #FFFFFF;
+    background-color: #2196F3;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;}
+    .button2 {
+        color: #212121;
+        background-color: #F5F4FA;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 26px;}
+            .button3 {
+                color: #212121;
+                background-color:#F5F4FA ;
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 26px;}
+            .button4 {
+                color: #212121;
+                background-color: #F5F4FA;
+                font-weight: 500;
+                    font-size: 16px;
+                    line-height: 26px;}
+                    .button5 {
+                        color: #212121;
+                        background-color: #F5F4FA;
+                        font-style: normal;
+                            font-weight: 500;
+                            font-size: 16px;
+                            line-height: 26px;
+                        }
+                    .h2 {
+                        font-style: normal;
+                            font-weight: 700;
+                                font-size: 18px;
+                                line-height: 36px;}
+                                .h3 {
+                                    font-style: normal;
+                                        font-weight: 400;
+                                        font-size: 16px;
+                                        line-height: 30px;
+                                        /* identical to box height, or 188% */
+                                    
+                                        letter-spacing: 0.03em;
+                                    
+                                        color: #757575;
+                                }
+                    footer a {text-decoration: none;
+                    background-color: #2F303A;}
+                    .adres {
+                        font-style: normal;
+                            font-weight: 400;
+                            font-size: 14px;
+                            line-height: 24px;
+                            
+                        
+                            letter-spacing: 0.03em;
+                        
+                            color: #FFFFFF;
+                    }
+                    .third {color: #FFFFFF;}
+                    .link:hover {background-color: #2196F3;}
+                 
+                    .link {
+                        font-family: 'Roboto';
+                            font-style: normal;
+                            font-weight: 400;
+                            font-size: 14px;
+                            line-height: 24px;
+                            letter-spacing: 0.03em;
+                            text-decoration-line: underline;
+                        color: #FFFFFF99;
+                            
+                    }
+                    .tel {
+                        font-style: normal;
+                            font-weight: 400;
+                            font-size: 14px;
+                            line-height: 24px;
+                            /* or 171% */
+                        
+                            letter-spacing: 0.03em;
+                        
+                            color: rgba(255, 255, 255, 0.6);
+                    }
